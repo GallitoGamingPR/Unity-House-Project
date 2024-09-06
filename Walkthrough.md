@@ -59,22 +59,22 @@ This project involves constructing a simple house in Unity using only cube objec
 ## Step 8: Covering the Roof Gaps
 - To cover the empty spaces left under the gable roof, additional cubes are scaled and rotated to fit neatly beneath the roof. These cubes are used to close off the triangular gaps between the roof and the house walls.
 
-![Covering Roof Gaps - Part 1](images/Screenshot%20(17).png)
-![Covering Roof Gaps - Part 2](images/Screenshot%20(18).png)
+![Covering Roof Gaps - Part 1](Walkthrough/Screenshot%20(17).png)
+![Covering Roof Gaps - Part 2](Walkthrough/Screenshot%20(18).png)
 
 ---
 
 ## Step 9: Finalizing the Roof
 - After closing the roof gaps, the roof structure is complete. The final adjustments are made to ensure the roof is symmetrical and properly aligned with the walls of the house.
 
-![Roof Complete - Front View](images/Screenshot%20(19).png)
-![Roof Complete - Better Lighting](images/Screenshot%20(21).png)
+![Roof Complete - Front View](Walkthrough/Screenshot%20(19).png)
+![Roof Complete - Better Lighting](Walkthrough/Screenshot%20(21).png)
 
 ---
 
 ## Step 10: Final House Structure
 - With the roof fully constructed and gaps covered, the house structure is complete. A final overview of the house shows the basic structure, including walls, door frame, and roof.
 
-![Final House Overview](images/Screenshot%20(21).png)
+![Final House Overview](Walkthrough/Screenshot%20(21).png)
 
 ---
