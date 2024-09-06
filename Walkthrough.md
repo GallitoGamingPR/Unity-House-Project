@@ -7,14 +7,14 @@ This project involves constructing a simple house in Unity using only cube objec
 ## Step 1: Setting the Foundation
 - In this step, the foundation of the house is created by placing a cube object at the center of the scene and scaling it to form a flat base. This foundation will serve as the ground floor of the house.
 
-![Foundation](Walkthrough/Screenshot (7).png)
+![Foundation](Walkthrough/Screenshot%20(7).png)
 
 ---
 
 ## Step 2: Adding the First Walls
 - The first wall is constructed by duplicating a cube object and scaling it vertically to represent the height of the wall. The wall is positioned on the foundation's edge, forming the first side of the house.
 
-![First Wall](Walkthrough/Screenshot (9).png)
+![First Wall](Walkthrough/Screenshot%20(9).png)
 
 ---
 
